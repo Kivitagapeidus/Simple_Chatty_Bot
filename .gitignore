@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Topics/The for-loop/Maximum element divisible by four/out/
+/Topics/The for-loop/Maximum element divisible by four/out/production/classes/
